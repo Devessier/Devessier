@@ -1,0 +1,19 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    # Runs every day at 00:00
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog-posts:
+    name: Update this repo's README with my latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BLOG"
+          commit_message: "Updated readme with my latest blog posts"
+          feed_list: "https://baptiste.devessier.fr/feed.xml"
