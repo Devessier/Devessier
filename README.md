@@ -20,9 +20,9 @@ I'm Baptiste Devessier, a fullstack web and XState developer based in Paris, Fra
 ## Latest blog posts
 
 <!-- BLOG:START -->
-- [Share state across Astro Islands with Nano Stores](https://baptiste.devessier.fr/writing/share-state-across-astro-islands-with-nano-stores/)
-- [Create a proxy state machine to drive CSS transitions on state changes with XState](https://baptiste.devessier.fr/writing/create-a-proxy-state-machine-to-drive-css-transitions-on-state-changes-with-xstate/)
-- [Create stale data indicator with XState](https://baptiste.devessier.fr/writing/create-stale-data-indicator-with-xstate/)
-- [Prevent flickering loading animation with XState](https://baptiste.devessier.fr/writing/prevent-flickering-loading-animation-with-xstate/)
-- [Orchestrate request for server-side execution of Turing machine with XState](https://baptiste.devessier.fr/writing/orchestrate-request-for-server-side-execution-of-turing-machine-with-xstate/)
+- [#5 Unit test a state machine](https://baptiste.devessier.fr/writing/unit-test-a-state-machine/)
+- [#4 Invoke and spawn utility machines](https://baptiste.devessier.fr/writing/invoke-and-spawn-utility-machines/)
+- [#3 Type XState with the Typegen](https://baptiste.devessier.fr/writing/type-xstate-with-the-typegen/)
+- [#2 Model a task queue with XState](https://baptiste.devessier.fr/writing/model-a-task-queue-with-xstate/)
+- [#1 The journey to learning XState](https://baptiste.devessier.fr/writing/the-journey-to-learning-xstate/)
 <!-- BLOG:END -->
