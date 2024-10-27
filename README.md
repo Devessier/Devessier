@@ -20,9 +20,9 @@ I'm Baptiste Devessier, a fullstack web and XState developer based in Paris, Fra
 ## Latest blog posts
 
 <!-- BLOG:START -->
+- [Go back to fundamentals: HTML label](https://baptiste.devessier.fr/writing/go-back-to-fundamentals-html-label/)
 - [#5 Unit test a state machine](https://baptiste.devessier.fr/writing/unit-test-a-state-machine/)
 - [#4 Invoke and spawn utility machines](https://baptiste.devessier.fr/writing/invoke-and-spawn-utility-machines/)
 - [#3 Type XState with the Typegen](https://baptiste.devessier.fr/writing/type-xstate-with-the-typegen/)
 - [#2 Model a task queue with XState](https://baptiste.devessier.fr/writing/model-a-task-queue-with-xstate/)
-- [#1 The journey to learning XState](https://baptiste.devessier.fr/writing/the-journey-to-learning-xstate/)
 <!-- BLOG:END -->
